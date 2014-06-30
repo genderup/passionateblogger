@@ -6,7 +6,7 @@ permalink: /justspeechy/
 
 <!-- <img src="/justspeechy.png"> -->
 
-<a href="https://itunes.apple.com/us/app/justspeechy/id885148580?ls=1&mt=8"><img src="/justspeechy.png"></a>
+<a href="https://itunes.apple.com/us/app/justspeechy/id885148580?ls=1&mt=8"><img src="/JustSpeechy.png"></a>
 
 Preparing a wedding speech, a lunch-time talk or a standup comedy routine?  <a href="https://itunes.apple.com/us/app/justspeechy/id885148580?ls=1&mt=8">Just Speechy</a> may be just the (iPhone) app for you. 
 
