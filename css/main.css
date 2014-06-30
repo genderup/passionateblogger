@@ -10,7 +10,7 @@ html, body { height: 100%; }
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-weight: 400;
   background-color: #fdfdfd;
@@ -28,7 +28,7 @@ a:visited { color: #205caa; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  max-width: 900px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
@@ -144,7 +144,17 @@ a:visited { color: #205caa; }
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
+.home h1 { margin-bottom: 25px; 
+}
+.home{float: left; width: 600px;}
+.side-bar{ 
+  width: 150px;
+float: right;
+}
+.title{
+  margin-left:25px;
+}
+
 
 .posts { list-style-type: none; }
 
@@ -343,6 +353,14 @@ a:visited { color: #205caa; }
     clear: both;
   }
 
+}
+.image-center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 600px;
+  
+  clear: both;
 }
 
 @media screen and (max-width: 600px) {

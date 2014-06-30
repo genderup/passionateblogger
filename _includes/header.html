@@ -19,10 +19,16 @@
       <div class="trigger">
         {% for page in site.pages %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+
         {% endfor %}
+       <!--  <a href="{{ site.baseurl }}/about/">About</a> -->
+       
       </div>
     </nav>
 
+ <br>
+ <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
   </div>
+
 
 </header>
