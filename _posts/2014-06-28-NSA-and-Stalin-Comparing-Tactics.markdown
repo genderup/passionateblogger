@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The NSA and Stalin--Comparing Tactics"
+title:  "Comparing Tactics: The NSA and Stalin"
 date:   2014-06-28 15:54:21
 categories: NSA
 ---
