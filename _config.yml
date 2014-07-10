@@ -7,7 +7,7 @@ url: "http://discussthetimes.com"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title
 collections:
   developer:
     output: true
