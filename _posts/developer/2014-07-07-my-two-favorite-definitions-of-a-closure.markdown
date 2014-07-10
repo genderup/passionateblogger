@@ -20,9 +20,11 @@ This definition helped me because it defines a closure in the context of an obje
 
 The second definition that I like is one that I came across this week while reading <a href="http://www.golang-book.com/assets/pdf/gobook.pdf">a book about Go</a>. It's much less elegant but very clear. 
 
-"A function ... together with the non-local variable it references is known as a closure."
+<blockquote>
+A function ... together with the non-local variable it references is known as a closure.
+</blockquote>
 
-The book gives an example. Inside the `main` function, the function `increment` together with the `non-local` variable `x` form the closure. The first time we call `increment` we see 1 displayed, the second time it displays 2.  This example also helps clarify the "Closures are functions with data" defintion provided by @CompSciFacts.
+The book gives an example, which I have provided below. Inside the `main` function, the function `increment` together with the `non-local` variable `x` form the closure. The first time we call `increment` we see 1 displayed, the second time it displays 2.  This example also helps clarify the "Closures are functions with data" defintion provided by @CompSciFacts.
 
 {% highlight html %}
 
