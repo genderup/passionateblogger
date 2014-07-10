@@ -5,10 +5,6 @@ permalink: /developer/
 ---
 <div class="home">
 
-
-
-<a href="http://discussthetimes.com/developer/2014-07-07-closure.html">post</a>
-
  
   <ul class="posts">
     {% for post in site.developer %}
@@ -18,6 +14,7 @@ permalink: /developer/
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
        <p>{{ post.excerpt }}</p>
+        <p>{{ post.content }}</p>
       </li>
    
     {% endfor %}
