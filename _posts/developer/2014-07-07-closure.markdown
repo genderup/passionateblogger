@@ -7,12 +7,14 @@ categories:
 - code
 ---
 
-When I first got into web development, I had a hard time wrapping my mind around closures, so I've always paid close attention whenever I've come across a definition of a closure.  One <a href="https://twitter.com/CompSciFact/status/436179880477462529">definition</a> that I love came from @CompSciFacts twitter account this February
+When I first got into web development, I had a hard time wrapping my mind around closures, so I've always paid close attention whenever I've come across a definition of a closure.  One <a href="https://twitter.com/CompSciFact/status/436179880477462529">definition</a> that I love came from @CompSciFacts twitter account this February:
 
 <blockquote>
 Objects are data structures with functions. Closures are functions with data.
 
 </blockquote>
+
+<!--more--> 
 
 This definition helped me because it defines a closure in the context of an object, and objects are easy to understand. 
 
