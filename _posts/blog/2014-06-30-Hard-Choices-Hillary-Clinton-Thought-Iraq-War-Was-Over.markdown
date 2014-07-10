@@ -4,7 +4,7 @@ title:  "Bad Choices: Hillary Clinton Wrote Too Soon About The Iraq War"
 date:   2014-06-30 15:54:21
 categories: 
 - blog
-- U.S. Politics
+- Politics
 ---
 
 <img class="image-center" src="/hardchoices.png">
