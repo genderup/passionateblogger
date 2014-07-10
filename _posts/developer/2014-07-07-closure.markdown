@@ -18,11 +18,11 @@ Objects are data structures with functions. Closures are functions with data.
 
 This definition helped me because it defines a closure in the context of an object, and objects are easy to understand. 
 
-The second definition that I really like is one that I came across this week while reading <a href="http://www.golang-book.com/assets/pdf/gobook.pdf">a book about Go</a>. It's less elegant but still very clear. 
+The second definition that I like is one that I came across this week while reading <a href="http://www.golang-book.com/assets/pdf/gobook.pdf">a book about Go</a>. It's much less elegant but very clear. 
 
-"A function ... together with the non-local variable it references is known as a closure.""
+"A function ... together with the non-local variable it references is known as a closure."
 
-The book gives an example. Inside the `main` function, the function `increment` together with the `non-local` variable `x` form the closure. The first time we call `increment` we see 1 displayed, the second time it displays 2.  This example also helps clarify the "Closures are functions with data" defintion provided by @CompSciFacts
+The book gives an example. Inside the `main` function, the function `increment` together with the `non-local` variable `x` form the closure. The first time we call `increment` we see 1 displayed, the second time it displays 2.  This example also helps clarify the "Closures are functions with data" defintion provided by @CompSciFacts.
 
 {% highlight html %}
 
