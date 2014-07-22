@@ -49,3 +49,9 @@ Greenwald has been criticized for his indictment of mainstream U.S. media, but h
 Even if the U.S. government enjoyed a small victory at an important juncture, a year and many disclosures later it's obvious that Greenwald and Poitras and the Guardian have been enormously successful in making the story "have the effect it should." Greenwald may want the world to appreciate Snowden's "fearlessness," but we should equally appreciative of Snowden's foresight in disclosing the trove of documents to journalists willing and capable of telling the story.
 
 
+<h4>Related Posts</h4>
+
+<a href="http://discussthetimes.com/blog/nsa/NSA-and-Stalin-Comparing-Tactics/">Comparing Tactics: NSA and Stalin</a>
+
+<img class="image-center" src="/stalin.png">
+

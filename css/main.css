@@ -421,3 +421,345 @@ float: right;
     margin: 0 0 15px; }
 
 }
+
+
+.chart div {
+       
+       
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: #000;
+        width: 600px;
+      }
+      .blue {
+        font: 15px sans-serif;
+        background-color: steelblue;
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: white;
+        height: 20px;
+        line-height: 20px;
+      }
+      .pink  {
+        font: 15px sans-serif;
+        background-color: #f5c5f2;
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: white;
+        height: 20px;
+        line-height: 20px;
+      }
+      .yellow {
+        font: 15px sans-serif;
+        background-color: #8dd4ba;
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: white;
+        height: 20px;
+        line-height: 20px;
+      }
+      .green {
+        font: 15px sans-serif;
+        background-color: #8dd4ba;
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: white;
+        height: 20px;
+        line-height: 20px;
+      }
+      .grey {
+        font: 15px sans-serif;
+        background-color: #bcbbb7;
+        text-align: right;
+        padding: 3px;
+        margin: 1px;
+        color: white;
+        height: 20px;
+        line-height: 20px;
+
+      }
+      .cunt{
+        float:left ;
+      }
+      tbody tr:nth-child(odd) {
+   background-color: #d7d8dc;
+}
+      .penis{
+        float:right;
+        margin-right: -55px;
+
+      }
+
+
+            .so_another_chart div {
+    text-align:right;
+    padding:3px;
+    margin:1px;
+    color:#000;
+    width:600px;
+}
+
+          .flat_chart div {
+    text-align:right;
+    padding:3px;
+    margin:1px;
+    color:#000;
+    width:600px;
+}
+
+.so_another_blue {
+    font:15px sans-serif;
+    background-color:#4682b4;
+    text-align:right;
+    padding:3px;
+    margin:1px;
+    color:#fff;
+    height:20px;
+    line-height:20px;
+     float:left;
+}
+.flat_chart_blue {
+    font:15px sans-serif;
+    background-color:#4682b4;
+    text-align:right;
+    padding:3px;
+    margin:1px;
+    color:#fff;
+    height:20px;
+    line-height:20px;
+     float:left;
+}
+
+.so_another_pink {
+    font:15px sans-serif;
+    background-color:#f5c5f2;
+    text-align:right;
+    padding:3px;
+    margin-left:75px;//the middle div should start 75px from the left color  
+    height:20px;
+    line-height:20px;
+     float:left;
+}
+
+.flat_chart_pink {
+    font:15px sans-serif;
+    background-color:#f5c5f2;
+    text-align:right;
+    padding:3px;
+    margin-left:75px;//the middle div should start 75px from the left color  
+    height:20px;
+    line-height:20px;
+     float:left;
+}
+
+.so_another_yellow {
+    font:15px sans-serif;
+    background-color:#ebfa02;
+    text-align:right;
+    padding:3px;
+    margin-left:120px;//the bottom div should start 120px from the left
+    color
+    height:20px;
+    line-height:20px;
+    float:left;
+}
+.flat_chart_yellow {
+    font:15px sans-serif;
+    background-color:#ebfa02;
+    text-align:right;
+    padding:3px;
+    margin-left:120px;//the bottom div should start 120px from the left
+    color
+    height:20px;
+    line-height:20px;
+    float:left;
+}
+.so_another_blue_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin:1px;
+    color:#fff;
+    height:20px;
+    line-height:20px;
+     float:left;
+
+}
+.flat_chart_blue_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin:1px;
+    color:#fff;
+    height:20px;
+    line-height:20px;
+     float:left;
+
+}
+
+.so_another_pink_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin-left:75px;//the middle div should start 75px from the left color  
+    height:20px;
+    line-height:20px;
+     float:left;
+}
+.flat_chart_pink_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin:1px;
+    color:#fff;
+    height:20px;
+    line-height:20px;
+     float:left;
+
+}
+
+.so_another_yellow_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin-left:120px;//the bottom div should start 120px from the left
+    color
+    height:20px;
+    line-height:20px;
+    float:left;
+}
+.flat_chart_yellow_2 {
+    font:15px sans-serif;
+    background-color:#fff;
+    text-align:center;
+    padding:3px;
+    margin-left:120px;//the bottom div should start 120px from the left
+    color
+    height:20px;
+    line-height:20px;
+    float:left;
+}
+
+  .flat_chart div {
+    text-align: right;
+    font: 15px sans-serif;
+    padding: 3px;
+    color: #000;
+    width: 600px;
+    float: left;
+    height: 20px;
+     margin:1px;
+}
+.flat_chart_blue {
+    background-color: steelblue;
+}
+.flat_chart_pink {
+    background-color: #f5c5f2;
+}
+.flat_chart_yellow {
+    background-color: #ebfa02;
+}
+.flat_chart_red {
+    background-color: #f94802;
+}
+ .ejector{
+        float:right;
+        margin-right: -55px;
+
+      }
+
+ .penis{
+        float:right;
+        margin-right: -55px;
+
+      }
+
+
+      .charto div {
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: #000;
+    text-align: right;
+    padding: 3px;
+    font: 15px sans-serif;
+    line-height: 20px;
+    height: 20px;
+    color: white;
+    margin: 1px;
+    overflow: visible;
+    position: relative;
+}
+div.greeno {
+    background-color: #8dd4ba;
+   
+}
+div.pinko  {
+    background-color: #f5c5f2;
+    
+}  
+div.blueo{
+  background-color: steelblue;
+
+} 
+div.greyo{
+  background-color: #bcbbb7;
+
+}
+div.ejectors{
+    position: absolute;
+    color: black;
+    top: 0;
+    left: 100%;
+    margin-left: 10px;
+}
+
+
+.another_chart div {
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: #000;
+    width: 600px;
+    float: left;
+}
+.another_blue {
+    font: 15px sans-serif;
+    background-color: steelblue;
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: white;
+    height: 20px;
+    line-height: 20px;
+}
+.another_pink {
+    font: 15px sans-serif;
+    background-color: #f5c5f2;
+    text-align: right;
+    padding: 3px;
+    margin-left: 30px;
+    color: white;
+    height: 20px;
+    line-height: 20px;
+}
+.another_yellow {
+    font: 15px sans-serif;
+    background-color: #ebfa02;
+    text-align: right;
+    padding: 3px;
+    margin-left: 30px;
+    color: white;
+    height: 20px;
+    line-height: 20px;
+}

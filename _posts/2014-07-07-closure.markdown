@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "My Two Favorite Definitions Of A Closure"
+date:   2014-07-07 15:54:21
+categories: development
+---
+
+When I first got into web development, I had a hard time wrapping my mind around closures, so I've always paid close attention whenever I've come across a definition of a closure.  One <a href="https://twitter.com/CompSciFact/status/436179880477462529">definition</a> that I love came from @CompSciFacts twitter account this February
+
+<blockquote>
+Objects are data structures with functions. Closures are functions with data.
+
+</blockquote>
+
+This definition helped me because it defines a closure in the context of an object, and objects are easy to understand. 
+
+The second definition that I really like is one that I came across this week while reading <a href="http://www.golang-book.com/assets/pdf/gobook.pdf">a book about Go</a>. It's less elegant but still very clear. 
+
+"A function ... together with the non-local variable it references is known as a closure.""
+
+The book gives an example. Inside the `main` function, the function `increment` together with the `non-local` variable `x` form the closure. The first time we call `increment` we see 1 displayed, the second time it displays 2.  This example also helps clarify the "Closures are functions with data" defintion provided by @CompSciFacts
+
+{% highlight html %}
+
+func main() {
+	x := 0
+	increment := func() int {
+		x++
+		return x
+	}
+	fmt.Println(increment())
+	fmt.Println(increment())
+}
+
+{% endhighlight %}
+
+What's your favorite definition of a closure?
+
+Follow me on Twitter at <a href="https://twitter.com/DiscussTheTimes">@discussTheTimes</a> and check out my non-dev related blog posts at <a href="{{ site.url }}">{{ site.url }}</a>
