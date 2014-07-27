@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "A Closer Look At The First Of Hillary's Hard Choices"
-date:   2014-07-15 15:54:21
+title:  "2883 Totally Brilliant Words By Hillary Clinton"
+date:   2014-07-27 15:54:21
 categories: 
 - blog
 - US-Politics
 ---
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
 <img class="image-center" src="/hardchoice.png">
 
  <!--more--> 
@@ -176,3 +176,5 @@ Finally, I kept returning to a simple idea: When your President asks you to serv
 And the rest is history. 
 
 These 24 paragraphs are a brilliant piece of writing. At every step of the way, Hillary tells a story that is open to attack, second guessing and questions about things she says and doesn't say, but these questions only arise if the reader starts from a position that she has something to hide. The version presented by Hillary is so at odds with the sequence of events reported by the media that the reader's left in a position where you either believe her or you don't, and if you don't, then of course you're going to view her story skeptically and there's nothing she can do about it. Her memoir isn't the place to defend herself against media speculation, rumor and innuendo. She's just telling a story about how she became Secretary of State and that it was a very hard decision to make. Or was it?
+
+
