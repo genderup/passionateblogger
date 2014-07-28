@@ -177,4 +177,17 @@ And the rest is history.
 
 These 24 paragraphs are a brilliant piece of writing. At every step of the way, Hillary tells a story that is open to attack, second guessing and questions about things she says and doesn't say, but these questions only arise if the reader starts from a position that she has something to hide. The version presented by Hillary is so at odds with the sequence of events reported by the media that the reader's left in a position where you either believe her or you don't, and if you don't, then of course you're going to view her story skeptically and there's nothing she can do about it. Her memoir isn't the place to defend herself against media speculation, rumor and innuendo. She's just telling a story about how she became Secretary of State and that it was a very hard decision to make. Or was it?
 
+<h4> Unrelated Posts</h4>
+<a href="http://discussthetimes.com/blog/twitter/Ten-Women-Is-There-A-Common-Thread/">10 Women: Is There A Common Thread?</a>
+
+<img class="image-center" src="/10women.png">
+
+<h4> Related Posts</h4>
+
+<a href="http://discussthetimes.com/blog/politics/Hard-Choices-Hillary-Clinton-Thought-Iraq-War-Was-Over/">Bad Choices: Hillary Clinton Wrote Too Soon About the Iraq War</a>
+
+<img class="image-center" src="/hardchoices.png">
+
+
+
 

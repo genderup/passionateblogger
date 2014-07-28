@@ -263,5 +263,6 @@ gender diversity push did not result in increase in engagement. Most users engag
 <h4> Related Posts</h4>
 
 <a href="http://discussthetimes.com/blog/nsa/no-place-to-hide-greenwald-edward-snowden/">Book Review: No Place To Hide By Glenn Greenwald</a>
+<img class="image-center" src="/10women.png">
 
 <img class="image-center" src="/tobeharmed.png">
