@@ -10,7 +10,7 @@ categories:
 <img class="image-center" src="https://dl.dropboxusercontent.com/u/10328969/ottawashooting.png">
 
 
-On the morning of Wednesday, October 22, Michael Zehaf-Bibeau went to the Tomb of the Unknown Soldier at the National War Memorial in Ottawa where he shot and killed Cpl. Nathan Cirillo. After attempting to kill a second reservist guarding the Tomb, Zehalf-Bibeau made his way in a beige vehicle and then on foot to Parliament where he hijacked a minister's vehicle to drive the last few hundred meters to his final destination, the Centre Block of Parliament, which he entered and where he was killed before he could take any more life. 
+On the morning of Wednesday, October 22, Michael Zehaf-Bibeau went to the Tomb of the Unknown Soldier at the National War Memorial in Ottawa where he shot and killed Cpl. Nathan Cirillo. After attempting to kill a second reservist guarding the Tomb, Zehalf-Bibeau made his way in his recently purchased beige Toyota and then on foot to Parliament where he hijacked a minister's vehicle to drive the last few hundred meters to his final destination, the Centre Block of Parliament, which he entered and where he was killed before he could take any more life. 
 
 Zehaf-Bibeau would have been under no illusions about the impossibility of escaping from the Centre Block of Parliament after opening fire. Even though it obviously had weak security, the building is filled and surrounded by armed police and military who would close in on him. From the terrorist's perspective, the final target of Zehalf-Bibeau's plot was a very high risk and high reward proposition. He would make an attempt on the highest profile members of goverment but also certainly not escape alive.
 
